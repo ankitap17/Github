@@ -1,4 +1,4 @@
-# Github
+# Music Sales Analysis
 Hello,
 
 Below is the link to my tableau public profile. 
